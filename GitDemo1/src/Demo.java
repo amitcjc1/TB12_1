@@ -18,4 +18,9 @@ public class Demo
 	{
 		System.out.println("Hello==M1");
 	}
+	
+	public void m3()
+	{
+		System.out.println("Hello==M3");
+	}
 }
